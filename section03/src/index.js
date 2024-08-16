@@ -13,4 +13,4 @@ const color = randomColor();
 console.log(color);
 
 
-//npm i 를 터미널에 적으면 실수로 삭제된 파일들을 다 가져올 수 있음
+//npm i 를 터미널에 적으면 실수로 삭제된 파일들을 다 가져올 수 있음 모든 라이브러리들을 다시 다운
