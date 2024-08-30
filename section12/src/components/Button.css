@@ -1,0 +1,19 @@
+.Button{
+  background-color: rgb(236,236,236);
+  cursor: pointer; /*마우스 커서 가져다 대면 pointer로 변함*/
+  border: none; /*태두리 없음 */
+  border-radius: 5px; /*모서리 둥글게*/
+  padding: 10px 20px; /*내부 여백 위아래 10 좌우 20*/
+  font-size: 18px;
+  white-space: nowrap; /*버튼 내부의 택스트를 줄바꿈 되지 않도록 설정*/
+}
+
+.Button_POSITIVE{
+  background-color: rgb(100,201,100);
+  color: white;
+}
+
+.Button_NAGATIVE{
+  background-color: rgb(253,86,95);
+  color: white;
+}
